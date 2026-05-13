@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\Proyectos\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.pdb
+C:\Users\DELL\Desktop\Proyectos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Proyectos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.FrmBiblioteca.resources
+C:\Users\DELL\Desktop\Proyectos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Proyectos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Proyectos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.pdb
+C:\Users\DELL\Desktop\Proyectos\SistemaBiblioteca\SistemaBiblioteca\bin\Debug\SistemaBiblioteca.exe
+C:\Users\DELL\Desktop\Proyectos\SistemaBiblioteca\SistemaBiblioteca\obj\Debug\SistemaBiblioteca.exe
